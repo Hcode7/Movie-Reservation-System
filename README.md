@@ -60,6 +60,12 @@ This project is a **Movie Reservation System** designed to streamline the proces
 
 ---
 
+## Project Page
+
+You can view the project roadmap and details at: [Movie Reservation System Roadmap]([https://roadmap.sh/projects/ecommerce-api](https://roadmap.sh/projects/movie-reservation-system))
+
+---
+
 ## Installation
 
 1. Clone the repository:
